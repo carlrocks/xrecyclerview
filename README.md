@@ -13,10 +13,11 @@ Gradle:
 ```groovy
 repositories {
   jcenter()
+  maven { url 'https://jitpack.io' }
 }
 
 dependencies {
-  compile 'com.carlrocks:xrecyclerview:1.1.0'
+  compile 'com.github.carlrocks:XRecyclerView:1.0'
 }
 ```
 
