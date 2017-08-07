@@ -17,7 +17,7 @@ repositories {
 }
 
 dependencies {
-  compile 'com.github.carlrocks:XRecyclerView:1.0'
+  compile 'com.github.carlrocks:xrecyclerview:1.0'
 }
 ```
 
